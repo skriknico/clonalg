@@ -1,0 +1,11 @@
+venv/
+__pycache__/
+*.pyc
+*.pyo
+.env
+report/main.aux
+report/main.log
+report/main.bbl
+report/main.blg
+report/main.toc
+report/main.out

@@ -1,0 +1,33 @@
+\begin{thebibliography}{1}
+
+\bibitem{dasgupta1999ais}
+Dipankar Dasgupta.
+\newblock {\em Artificial immune systems and their applications}.
+\newblock Springer, 1999.
+
+\bibitem{decastro2002clonalg}
+Leandro~N. de~Castro and Fernando~J. Von~Zuben.
+\newblock Learning and optimization using the clonal selection principle.
+\newblock volume~6, pages 239--251, 2002.
+
+\bibitem{lin1992rl}
+Long-Ji Lin.
+\newblock Self-improving reactive agents based on reinforcement learning,
+  planning and teaching.
+\newblock {\em Machine Learning}, 8:293--321, 1992.
+
+\bibitem{mnih2015dqn}
+Volodymyr Mnih et~al.
+\newblock Human-level control through deep reinforcement learning.
+\newblock {\em Nature}, 518:529--533, 2015.
+
+\bibitem{schaul2015per}
+Tom Schaul et~al.
+\newblock Prioritized experience replay.
+\newblock {\em arXiv preprint arXiv:1511.05952}, 2015.
+
+\bibitem{gymnasium}
+Mark Towers et~al.
+\newblock Gymnasium: A standard api for reinforcement learning, 2023.
+
+\end{thebibliography}

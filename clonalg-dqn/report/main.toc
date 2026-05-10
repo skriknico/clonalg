@@ -1,0 +1,25 @@
+\babel@toc {spanish}{}\relax 
+\contentsline {section}{\numberline {1}Introducción}{2}{section.1}%
+\contentsline {section}{\numberline {2}Antecedentes y Estado del Arte}{3}{section.2}%
+\contentsline {subsection}{\numberline {2.1}Deep Q-Network (DQN)}{3}{subsection.2.1}%
+\contentsline {subsection}{\numberline {2.2}CLONALG}{3}{subsection.2.2}%
+\contentsline {subsection}{\numberline {2.3}Prioritized Experience Replay (PER)}{4}{subsection.2.3}%
+\contentsline {section}{\numberline {3}Metodología}{4}{section.3}%
+\contentsline {subsection}{\numberline {3.1}Entorno experimental}{4}{subsection.3.1}%
+\contentsline {subsection}{\numberline {3.2}Arquitectura del sistema híbrido}{5}{subsection.3.2}%
+\contentsline {subsection}{\numberline {3.3}Componente bioinspirado: CLONALG como buffer}{6}{subsection.3.3}%
+\contentsline {subsection}{\numberline {3.4}Prueba de validez del acoplamiento}{6}{subsection.3.4}%
+\contentsline {subsection}{\numberline {3.5}Proceso de desarrollo: dificultades e iteraciones}{7}{subsection.3.5}%
+\contentsline {subsubsection}{\numberline {3.5.1}Iteración 1: listas Python y afinidades sin normalizar}{7}{subsubsection.3.5.1}%
+\contentsline {subsubsection}{\numberline {3.5.2}Iteración 2: arrays numpy y supresión vectorizada}{7}{subsubsection.3.5.2}%
+\contentsline {subsubsection}{\numberline {3.5.3}Iteración 3: clip de afinidades y normalización}{8}{subsubsection.3.5.3}%
+\contentsline {subsubsection}{\numberline {3.5.4}Iteración 4: mezcla uniforme y clip agresivo (diseño final)}{8}{subsubsection.3.5.4}%
+\contentsline {subsubsection}{\numberline {3.5.5}Causa raíz identificada: ausencia de importance sampling weights}{8}{subsubsection.3.5.5}%
+\contentsline {subsection}{\numberline {3.6}Configuración experimental}{8}{subsection.3.6}%
+\contentsline {section}{\numberline {4}Resultados}{9}{section.4}%
+\contentsline {subsection}{\numberline {4.1}Curvas de aprendizaje}{9}{subsection.4.1}%
+\contentsline {subsection}{\numberline {4.2}Estudio de ablación}{10}{subsection.4.2}%
+\contentsline {subsection}{\numberline {4.3}Diagnósticos del módulo bioinspirado}{11}{subsection.4.3}%
+\contentsline {subsection}{\numberline {4.4}Barrido de hiperparámetros}{11}{subsection.4.4}%
+\contentsline {section}{\numberline {5}Discusión}{12}{section.5}%
+\contentsline {section}{\numberline {6}Conclusiones}{13}{section.6}%
