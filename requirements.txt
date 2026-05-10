@@ -1,0 +1,9 @@
+torch>=2.0
+torchvision
+gymnasium[box2d]>=0.29
+numpy>=1.24
+matplotlib>=3.7
+pandas>=2.0
+scipy>=1.10
+tqdm>=4.65
+swig>=4.0
